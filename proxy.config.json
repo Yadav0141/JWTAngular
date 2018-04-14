@@ -1,0 +1,8 @@
+{
+    "/token/*":{
+        "target":"http://localhost:64509",
+        "secure":false,
+        "loglevel":"debug"
+
+    }
+}
