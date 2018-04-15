@@ -16,7 +16,7 @@ import { AuthenticationService } from './AuthenticationService.service';
   
         if (tokenNotExpired()) {  
             // Signed in.  
-debugger;
+
             // this will be passed from the route config
     // on the data property
     const expectedRole = route.data.expectedRole;
